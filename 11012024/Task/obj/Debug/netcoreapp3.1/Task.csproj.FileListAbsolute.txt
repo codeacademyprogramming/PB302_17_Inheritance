@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\elchin\Desktop\CodeLessons\17. 11-01-2024\11012024\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
